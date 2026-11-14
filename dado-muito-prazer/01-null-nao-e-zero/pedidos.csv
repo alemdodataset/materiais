@@ -1,0 +1,5 @@
+pedido,cliente,valor,desconto
+1001,Ana,120.00,10
+1002,Bruno,80.00,
+1003,Carla,200.00,0
+1004,Davi,150.00,20
